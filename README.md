@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Punith Gowda S, a passionate student exploring the world of Software field.<br><br>🎓 Studying Computer Science Engineering at Channabasaveshwara Institute of Technolology (V T U)<br><br>🌱 I’m currently sharpening my skills in: C C++ Python<br><br>🔍 Interested in Software Field .
+👋 Hi there! I’m Punith Gowda S, a passionate student exploring the world of Software field.<br><br>🎓Artificial intelligence and data science graduate from Channabasaveshwara Institute of Technolology (V T U)<br><br>🌱 I’m currently sharpening my skills in: C C++ Python<br><br>🔍 Interested in Software Field .
 
 
 # 💻 Tech Stack:
